@@ -87,15 +87,6 @@ Dashboard (business owner sees live conversations)
 
 ---
 
-## Business model
-
-| Plan | Price | Includes |
-|------|-------|---------|
-| Starter | Free | Up to 200 msgs/month |
-| Professional | ~$37/month | Unlimited msgs + CRM + loyalty |
-
-Estimated infrastructure cost per active business: **$2–4/month** → ~90% gross margin at Professional tier.
-
 ---
 
 ## Roadmap
